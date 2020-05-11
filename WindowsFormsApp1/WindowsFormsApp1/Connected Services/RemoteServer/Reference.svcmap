@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5e3194d5-15db-4b0f-acdc-64e2b6547eef" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://192.168.99.126:8733/Design_Time_Addresses/WebApplication1/Service/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="57d2bd62-89fe-4cae-9774-ef08fa380f02" SourceId="1" SourceUrl="http://192.168.99.126:8733/Design_Time_Addresses/WebApplication1/Service/?xsd=xsd2" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="9092bf56-a2ce-40fb-9c21-281672b09ff4" SourceId="1" SourceUrl="http://192.168.99.126:8733/Design_Time_Addresses/WebApplication1/Service/?disco" />
+    <MetadataFile FileName="Service.wsdl" MetadataType="Wsdl" ID="b3c699e1-e383-4e70-b773-fdc312127e8e" SourceId="1" SourceUrl="http://192.168.99.126:8733/Design_Time_Addresses/WebApplication1/Service/?wsdl" />
+    <MetadataFile FileName="item3.xsd" MetadataType="Schema" ID="0f1c895d-6f8f-459e-ac14-ddf65a974cb9" SourceId="1" SourceUrl="http://192.168.99.126:8733/Design_Time_Addresses/WebApplication1/Service/?xsd=xsd1" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="8f9d9949-f9dd-4294-93d6-9da3e721dbe9" SourceId="1" SourceUrl="http://192.168.99.126:8733/Design_Time_Addresses/WebApplication1/Service/?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
